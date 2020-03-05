@@ -1,5 +1,5 @@
 TEAM: RuntimeTerrorOnIoT
-Team NUmber : 38
+Team Number : 38
 
 The above two folders consist the necessary codes for runninf the IoT project.
 
