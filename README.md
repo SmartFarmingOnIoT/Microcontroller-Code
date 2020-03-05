@@ -1,3 +1,6 @@
+TEAM: RuntimeTerrorOnIoT
+Team NUmber : 38
+
 The above two folders consist the necessary codes for runninf the IoT project.
 
 In order to make out project more efficient, reliable and consumer friendly, we have taken the approach of a Master_Slave system, wherein the Micro Controllers bearing the sensors, which are present at a Particular Node/ Area in the fiels can communicate with the main master through Serial Communication.
